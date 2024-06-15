@@ -1,2 +1,2 @@
 # Motor_validation
-This is a python script that validated the motor data by checking the wrongly spelt word, invalid values and empty cells.
+This Python script validates motor data by identifying misspelled words, invalid values, empty cells, and separates motor vehicles from their respective makes."
